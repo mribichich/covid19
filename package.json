@@ -1,0 +1,20 @@
+{
+  "name": "covid19",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^5.1.0",
+    "pdf-parse": "^1.1.1",
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^13.13.5",
+    "@types/pdf-parse": "^1.1.0",
+    "@types/ramda": "^0.27.4",
+    "typescript": "^3.9.2"
+  }
+}
